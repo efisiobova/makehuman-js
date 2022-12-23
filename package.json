@@ -28,10 +28,11 @@
   "dependencies": {
     "d3-random": "^0.2.1",
     "lodash": "^4.5.1",
+    "makehuman-data": "0.0.2",
+    "npm-check-updates": "^16.6.2",
     "qs": "^6.3.0",
     "three": "^0.82.1",
-    "tween": "^0.9.0",
-    "makehuman-data": "0.0.2"
+    "tween": "^0.9.0"
   },
   "devDependencies": {
     "babel-cli": "^6.4.5",
